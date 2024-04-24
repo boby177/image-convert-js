@@ -45,29 +45,17 @@ $ yarn run start:dev
 $ yarn run start:prod
 ```
 
-## Test
+## Result Test Image to Text
 
-```bash
-# unit tests
-$ yarn run test
+![img-to-text](https://raw.githubusercontent.com/boby177/image-convert-js/main/text-to-img.png)
 
-# e2e tests
-$ yarn run test:e2e
+## Result Text Text to Image
 
-# test coverage
-$ yarn run test:cov
-```
+### From this :
 
-## Support
+![text-to-img](https://raw.githubusercontent.com/boby177/image-convert-js/main/img-to-text.png)
 
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
+### To this :
 
-## Stay in touch
+![result](https://raw.githubusercontent.com/boby177/image-convert-js/main/20240424T071417311Z.png)
 
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
-
-## License
-
-Nest is [MIT licensed](LICENSE).
