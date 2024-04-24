@@ -47,6 +47,8 @@ $ yarn run start:prod
 
 ## Result Test Image to Text
 
+### Convert data ID Card to text, but the result is not 100% accurate
+
 ![img-to-text](https://raw.githubusercontent.com/boby177/image-convert-js/main/text-to-img.png)
 
 ## Result Text Text to Image
